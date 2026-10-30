@@ -1,23 +1,53 @@
-Brary Game
+🎮 Brary Game - Sua biblioteca de jogos em um só lugar
 
-O Brary Game é uma rede social desenvolvida para pessoas que gostam de jogos. A plataforma tem como objetivo reunir jogadores em um ambiente onde possam organizar suas bibliotecas de jogos, conhecer novos títulos e compartilhar suas opiniões.
+O Brary Game é uma aplicação voltada para jogadores, criada com o objetivo de reunir pessoas que gostam de jogos em uma mesma plataforma. O sistema permite organizar bibliotecas pessoais, conhecer diferentes jogos, compartilhar avaliações e acompanhar as opiniões de outros jogadores.
 
-Por meio do sistema, os usuários podem visualizar informações sobre jogos, consultar avaliações e registrar os jogos que fazem parte de suas bibliotecas pessoais.
+A aplicação busca proporcionar um espaço onde os usuários possam gerenciar seus jogos e interagir com a comunidade gamer, facilitando a descoberta de novos títulos e a troca de experiências.
 
-Funcionalidades
+Funcionalidades:
 
-Cadastro e gerenciamento de usuários.
+Cadastro de usuários
 
-Diferenciação entre jogadores e administradores.
+Permite que novos usuários se cadastrem na plataforma.
 
-Cadastro e consulta de jogos.
+O sistema possui diferentes tipos de usuários, como jogadores e administradores.
 
-Organização dos jogos por gêneros.
+Cada tipo de usuário possui suas próprias informações e responsabilidades dentro da aplicação.
 
-Criação e gerenciamento de bibliotecas pessoais.
+Cadastro e consulta de jogos
 
-Registro de jogos nas bibliotecas dos jogadores.
+Os jogos podem ser cadastrados com informações como nome, descrição e imagem de capa.
 
-Publicação de avaliações e notas sobre os jogos.
+Cada jogo pode estar associado a um ou mais gêneros.
 
-Gerenciamento dos dados da plataforma pelos administradores.
+Os usuários podem consultar os jogos disponíveis na plataforma e conhecer suas informações.
+
+Biblioteca pessoal
+
+Cada jogador possui sua própria biblioteca para organizar os jogos.
+
+É possível adicionar jogos à biblioteca e consultar os títulos registrados.
+
+A biblioteca permite que o jogador mantenha seus jogos organizados em um único lugar.
+
+Avaliações de jogos
+
+Os jogadores podem registrar avaliações e atribuir notas aos jogos.
+
+As avaliações podem ser consultadas por outros usuários da plataforma.
+
+Esse recurso permite compartilhar opiniões e ajudar outros jogadores na escolha de novos títulos.
+
+Gêneros de jogos
+
+Os jogos podem ser classificados de acordo com seus gêneros.
+
+Um mesmo jogo pode possuir vários gêneros associados.
+
+Essa organização facilita a consulta e a identificação dos diferentes tipos de jogos disponíveis.
+
+Administração da plataforma
+
+Os administradores são responsáveis pelo gerenciamento das informações da plataforma.
+
+Podem realizar operações de cadastro, consulta, atualização e exclusão dos dados, conforme suas permissões.
