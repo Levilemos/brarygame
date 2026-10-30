@@ -1,4 +1,4 @@
-# 🎮 Brary Game - Sua biblioteca de jogos em um só lugar
+# 🎮 Brary Game 
 
 O Brary Game é uma aplicação voltada para jogadores, criada com o objetivo de reunir pessoas que gostam de jogos em uma mesma plataforma. O sistema permite organizar bibliotecas pessoais, conhecer diferentes jogos, compartilhar avaliações e acompanhar as opiniões de outros jogadores.
 
@@ -36,19 +36,4 @@ A aplicação busca proporcionar um espaço onde os usuários possam gerenciar s
 - Um mesmo jogo pode possuir vários gêneros associados.
 - Essa organização facilita a consulta e a identificação dos diferentes tipos de jogos disponíveis.
 
-### Administração da plataforma
 
-- Os administradores são responsáveis pelo gerenciamento das informações da plataforma.
-- Podem realizar operações de cadastro, consulta, atualização e exclusão dos dados, conforme suas permissões.
-
-## Tecnologias utilizadas
-
-- **Node.js:** ambiente de execução utilizado no backend.
-- **TypeScript:** linguagem utilizada no desenvolvimento da aplicação.
-- **Express:** framework utilizado para estruturar a API.
-- **PostgreSQL:** banco de dados utilizado para armazenar as informações.
-- **Multer:** biblioteca utilizada para receber imagens enviadas à aplicação.
-
-## Objetivo do projeto
-
-O Brary Game tem como objetivo desenvolver uma plataforma que facilite a organização de jogos e a interação entre jogadores. Através de bibliotecas pessoais e avaliações, busca tornar mais simples o compartilhamento de experiências e a descoberta de novos jogos.
